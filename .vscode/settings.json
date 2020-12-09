@@ -1,0 +1,4 @@
+{
+    "phpConstructor.chooseConstructorVisibility": true,
+    "phpConstructor.choosePropertyVisibility": true
+}
